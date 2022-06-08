@@ -22,4 +22,4 @@ Demonstration of our STATS 170B project on crime count and social media sentimen
 **project.html** - A .html version of the notebook where all output cells are already shown.
 
 ## How to run the project demonstration
-All the data has been preprocessed beforehand, so the demonstration can be run through the notebook finalizedModels.ipynb.
+All the data has been preprocessed beforehand and the models are already trained, so the demonstration can be run through the notebook finalizedModels.ipynb.
